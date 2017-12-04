@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\bin\Debug\Pract_Properties.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\bin\Debug\Pract_Properties.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\bin\Debug\Pract_Properties.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\obj\Debug\Pract_Properties.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\obj\Debug\Pract_Properties.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Pract_Properties\Pract_Properties\obj\Debug\Pract_Properties.pdb
